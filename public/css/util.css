@@ -1,0 +1,92 @@
+.indigo{
+    color: white;
+}
+.main-layout {
+    width: 800px;
+    margin: 0 auto;
+}
+.cursor-pointer{
+    cursor: pointer;
+}
+
+.color-indigo{
+    background-color: #3F51B5;
+}
+.error{
+    color: #F44336;
+}
+
+.panel-customized{
+    background: -webkit-linear-gradient(#3F51B5, #1A237E);
+    background: -moz-linear-gradient(#3F51B5, #1A237E);
+    background: -o-linear-gradient(#3F51B5, #1A237E);
+    background: linear-gradient(#3F51B5, #1A237E);
+    border: 1px solid #3F51B5;
+    color: white;
+}
+
+.panel-border{
+    border: 1px solid #1A237E;
+    box-shadow: 7px 0 7px #ccc, -7px 0 7px #ccc;
+}
+
+.header{
+
+    background: -webkit-linear-gradient(#3F51B5, #1A237E);
+    background: -moz-linear-gradient(#3F51B5, #1A237E);
+    background: -o-linear-gradient(#3F51B5, #1A237E);
+    background: linear-gradient(#3F51B5, #1A237E);
+}
+.custom-combobox {
+    width: 100%;
+    position: relative;
+    display: inline-block;
+}
+
+.custom-combobox-toggle {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    margin-left: -1px;
+    padding: 0;
+}
+
+.custom-combobox-input {
+    margin: 0;
+    padding: 5px 10px;
+}
+
+.ui-autocomplete {
+    max-height: 200px;
+    overflow-y: auto;
+    /* prevent horizontal scrollbar */
+    overflow-x: hidden;
+}
+
+/* IE 6 doesn't support max-height
+ * we use height instead, but this forces the menu to always be this tall
+ */
+* html .ui-autocomplete {
+    height: 100px;
+}
+
+.text-color {
+    color: white;
+}
+
+.text-color:hover {
+    color: black;
+}
+legend{
+    font-size: 14px;
+    font-weight: 600;
+    margin-bottom: 5px;
+}
+
+thead{
+    background: -webkit-linear-gradient(#3F51B5, #1A237E);
+    background: -moz-linear-gradient(#3F51B5, #1A237E);
+    background: -o-linear-gradient(#3F51B5, #1A237E);
+    background: linear-gradient(to left bottom, #7986CB, #1A237E);
+    color: white;
+}

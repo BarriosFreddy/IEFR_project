@@ -1,0 +1,53 @@
+[
+    {
+        "id": 2,
+        "titulo": "Otro libro",
+        "fecha_registro": "2015-08-28",
+        "isbn": "345-35443-543-543-5",
+        "pais_impreso": "Bar\u00e9in\t",
+        "anho_edicion": 1903,
+        "idioma": "\u00c1rabe",
+        "num_paginas": 2007,
+        "ejemplares": 16,
+        "categoria_id": 2,
+        "autor_id": 1,
+        "editorial_id": 1,
+        "ubicacion_id": 1,
+        "created_at": "2015-08-28 03:46:25",
+        "updated_at": "2015-08-28 03:46:25"
+    },
+    {
+        "id": 1,
+        "titulo": "The english hub",
+        "fecha_registro": "2015-08-02",
+        "isbn": "34543-543-543-543-32",
+        "pais_impreso": "Alemania",
+        "anho_edicion": 1903,
+        "idioma": "Aleman",
+        "num_paginas": 3,
+        "ejemplares": 3,
+        "categoria_id": 1,
+        "autor_id": 1,
+        "editorial_id": 1,
+        "ubicacion_id": 1,
+        "created_at": "2015-08-02 23:34:17",
+        "updated_at": "2015-08-02 23:34:17"
+    },
+    {
+        "id": 3,
+        "titulo": "xxxxx",
+        "fecha_registro": "2015-09-16",
+        "isbn": "344344-345-345-345-34",
+        "pais_impreso": "B\u00e9lgica\t",
+        "anho_edicion": 1918,
+        "idioma": "\u00c1rabe",
+        "num_paginas": 33,
+        "ejemplares": 7,
+        "categoria_id": 1,
+        "autor_id": 1,
+        "editorial_id": 1,
+        "ubicacion_id": 1,
+        "created_at": "2015-09-16 02:53:04",
+        "updated_at": "2015-09-16 02:53:04"
+    }
+]
